@@ -1,0 +1,19 @@
+.Header{
+  width: 100%;
+  padding: 15px;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+.Header-Menu-Options{
+  text-align:left;
+}
+
+.Header-User-Options{
+  text-align:right;
+}
+
+.Header-Menu-Options-Item{
+  display: inline-block;
+  padding-right:20px;
+  vertical-align: middle;
+}

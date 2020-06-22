@@ -1,0 +1,30 @@
+.UploadBody{
+  border: 1px solid #CCCCCC;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.UploadBody-disabled{
+  border: 1px solid #CCCCCC;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  pointer-events: none;
+  opacity: 0.6;
+  background: #DDDDDD;
+}
+
+.UploadBody-Form{
+  text-align: center;
+}
+
+.UploadBody-Form-Form{
+  margin:0px auto;
+  width: 225px;
+}
+
+.UploadBody-RemoveFile:hover{
+  color:red;
+  cursor: pointer;
+}
